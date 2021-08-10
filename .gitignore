@@ -4,6 +4,7 @@
 /node_modules
 /.pnp
 .pnp.js
+.env
 
 # testing
 /coverage
@@ -27,5 +28,3 @@ node_modules
 #Hardhat files
 cache
 artifacts
-package.json
-package-lock.json
